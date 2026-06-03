@@ -1,7 +1,7 @@
 # Supplier Performance Analysis
 
 ## Business Problem
-The company buys materials from different suppliers, but it is difficult to evaluate and compare their performance across multiple parameters. Suppliers are assessed using factors such as Quality, Cost, Delivery, and Compliance, making it challenging to identify which suppliers perform best overall. The objective of this project is to evaluate suppliers based on these factors and create a Supplier Performance Scorecard that helps managers identify top-performing and underperforming suppliers and make better procurement decisions.
+A company buys materials from different suppliers, but it is difficult to evaluate and compare their performance across multiple parameters. Suppliers are assessed using factors such as Quality, Cost, Delivery, and Compliance, making it challenging to identify which suppliers perform best overall. In this Project my main objective was to evaluate suppliers based on these factors and create a Supplier Performance Scorecard that helps manager identify top-performing and underperforming suppliers and make better procurement decisions.
 
 ## Dashboard Preview
 <img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/f29de5a9-114c-44bf-8b44-daad12a7338a" />
