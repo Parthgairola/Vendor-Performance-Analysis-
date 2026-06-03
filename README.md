@@ -3,8 +3,11 @@
 ## Business Problem
 The company buys materials from different suppliers, but it is difficult to evaluate and compare their performance across multiple parameters. Suppliers are assessed using factors such as Quality, Cost, Delivery, and Compliance, making it challenging to identify which suppliers perform best overall. The objective of this project is to evaluate suppliers based on these factors and create a Supplier Performance Scorecard that helps managers identify top-performing and underperforming suppliers and make better procurement decisions.
 
+## Dashboard Preview
+<img width="1282" height="719" alt="image" src="https://github.com/user-attachments/assets/f29de5a9-114c-44bf-8b44-daad12a7338a" />
+
 ## Dataset Used
-Procurement KPI Analysis Dataset
+[Procurement KPI Analysis Dataset](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
 
 ## Assumptions
 1. I filtered the data to only include completed transactions where **status = delivered**. Pending and cancelled orders were excluded since the delivery process had not been fully completed.
