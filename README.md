@@ -15,9 +15,9 @@ A company buys materials from different suppliers, but it is difficult to evalua
 3. I didn't treat all metrics the same when calculating the supplier score. Since product quality is most important for the business, I gave it a weight of **35%**. Delivery performance was given **25%**, while **Cost Savings** and **Compliance** were given **20% each**. This helped create a score that better reflects overall supplier performance.
 
 ## Insights
-1. **Alpha Inc** is currently our top-performing supplier with an overall score of **70**. They maintain the lowest defect rate (**1.7%**) across the network while delivering solid **cost savings** of **8.0%**.
+1. **Alpha Inc** is currently our top-performing supplier with an overall score of **70**. They maintain the lowest defect rate (**1.7%**) across the network while delivering solid **cost savings** of **8%**.
 2. **Epsilon Group** is a close second at **69**, standing out as our fastest supplier with a **10-day lead time** and a near-perfect compliance rate of **98%**.
-3. **Delta Logistics** is our weakest supplier with a score of **48**. Their performance is heavily dragged down by a high **10.1%** overall defect rate and a poor compliance record of just **61%**.
+3. **Delta Logistics** is our weakest supplier with a score of **48**. Their performance is heavily dragged down by a high **10%** overall defect rate and a poor compliance record of just **61%**.
 4. A closer look at the categories shows that Delta's quality issues are highly concentrated, spiking at a brutal **13.8%** defect rate in **Office Supplies** and **10.5%** in **Raw Materials**.
 
 ## Final Recommendations
