@@ -10,7 +10,7 @@ A company buys materials from different vendors, but it is difficult to evaluate
 [Procurement KPI Analysis Dataset](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
 
 ## Tools Used
-SQL | PowerBI
+SQL • Power BI
 
 ## Assumptions
 1. I filtered the data to only include completed transactions where **status = delivered**. Pending and cancelled orders were excluded since the delivery process had not been fully completed.
