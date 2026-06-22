@@ -9,6 +9,9 @@ A company buys materials from different vendors, but it is difficult to evaluate
 ## Dataset Used
 [Procurement KPI Analysis Dataset](https://www.kaggle.com/datasets/shahriarkabir/procurement-kpi-analysis-dataset)
 
+## Tools Used
+SQL | PowerBI
+
 ## Assumptions
 1. I filtered the data to only include completed transactions where **status = delivered**. Pending and cancelled orders were excluded since the delivery process had not been fully completed.
 2. Orders with missing delivery dates were excluded from the analysis because delivery performance could not be calculated accurately for those records. This ensured that average lead time metrics were based only on valid delivery information.
